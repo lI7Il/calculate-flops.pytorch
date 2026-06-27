@@ -558,7 +558,7 @@ You also can compare torchvision results of calculate FLOPs with anthoer good to
 
 
 
-## Concact Author
+## Contact Author
 
 Author: [MrYXJ](https://github.com/MrYxJ/)
 
